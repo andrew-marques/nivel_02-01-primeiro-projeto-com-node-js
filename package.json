@@ -1,7 +1,7 @@
 {
   "name": "01-primeiro-projeto-com-node-js",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "license": "MIT",
   "scripts": {
     "build": "tsc",
